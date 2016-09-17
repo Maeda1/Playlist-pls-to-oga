@@ -1,4 +1,4 @@
-# Playliste-pls-to-oga.sh :
+# Playlist-pls-to-oga.sh :
 
 Script to copy lossy files (and convert .flac files to .oga) from playlist (.pls file)
 This script can be executed several times (one per console) with same playslit and same destination, all will be parallelized and CPUs will be more active (destination device too)
